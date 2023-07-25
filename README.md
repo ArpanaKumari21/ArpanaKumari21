@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpana Kumari</h1>
 <h3 align="center">A 3rd Year IT Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie/female-web-developer-7362400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanakumari21&label=Profile%20views&color=0e75b6&style=flat" alt="arpanakumari21" /> </p>
 
